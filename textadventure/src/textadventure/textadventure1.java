@@ -14,7 +14,7 @@ public class textadventure1 {
 		System.out.println("You can either:");
 		System.out.println("1) Look for a way to escape");
 		System.out.println("2) Look around for supplies");
-		System.out.println("3) Wait");
+		System.out.println("3) EAT EGGS");
 		System.out.println("");
 		System.out.println("What do you want to do?");
 		
@@ -28,7 +28,7 @@ public class textadventure1 {
 			System.out.println("You chose to look around for supplies");
 		}
 		if (input == 3){
-			System.out.println("You chose to wait in the dark room");
+			System.out.println("You chose to EAT EGGS. Nothing happens.");
 		}
 	}
 }
